@@ -12,7 +12,7 @@
 <name id="2" value="Regular"/>
 <name id="3" value="Flipnote Gothic"/>
 <name id="4" value="Flipnote Gothic"/>
-<name id="5" value="Version 2.0"/>
+<name id="5" value="Version 2.1"/>
 <name id="6" value="Flipnote Gothic"/>
 <name id="8" value="Made with Bits&#39;n&#39;Picas by Kreative Software"/>
 <name id="9" value="the motan"/>
@@ -325,6 +325,6 @@
 <g u="57553" x="0" y="0" w="0" d="AAA"/>
 <g u="57554" x="0" y="7" w="0" d="CARHAUICQQNBA0ICQwFE"/>
 <g u="57555" x="0" y="0" w="0" d="AAA"/>
-<g u="57556" x="1" y="7" w="0" d="CAREAUMCQgNBA0ECQgFH"/>
+<g u="57556" x="1" y="7" w="5" d="CAREAUMCQgNBA0ECQgFH"/>
 <g n=".notdef" x="0" y="6" w="5" d="BgRFAkICQgJCAkU"/>
 </kbits>
